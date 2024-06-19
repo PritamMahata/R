@@ -1,0 +1,1 @@
+print(matrix(1:6,nrow=3,ncol=2))
